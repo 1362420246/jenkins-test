@@ -15,6 +15,6 @@ public class JenkinsTestApplication {
 
     @GetMapping("/")
     public String get(){
-        return "test";
+        return "test2";
     }
 }
